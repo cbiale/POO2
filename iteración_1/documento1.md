@@ -27,7 +27,7 @@
 
 ...
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/cbiale/POO2/blob/master/iteraci%C3%B3n_1/oop.svg "Pantalla 1")
+![alt text](https://github.com/cbiale/POO2/blob/master/iteraci%C3%B3n_1/oop.png "Pantalla 1")
 
 ## Casos de Uso
 
