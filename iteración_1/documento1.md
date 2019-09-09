@@ -1,7 +1,10 @@
 # Título del Proyecto
 
-## Nombre del grupo y nombres de los integrantes.
+## Grupo: Nombre Del Grupo
 
+1. Integrante 1
+2. Integrante 2
+3. Integrante 3
 ...
 
 ## Visión 
@@ -22,6 +25,8 @@
 ## Bocetos de Interfaz de Usuario
 
 ...
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](pantalla1.jpg "Pantalla 1")
 
 ## Casos de Uso
 
