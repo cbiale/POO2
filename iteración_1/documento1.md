@@ -33,8 +33,30 @@ Pantalla 1
 
 ## Casos de Uso
 
+### Actores
+
+1. Actor 1: descripción del actor 1.
+2. Actor 2: descripción del actor 2.
+
 ...
+
+_Por cada caso de uso especificar_
+
+__Titulo del Caso de Uso__
+__Actores__: Especificar actores
+__Objetivo__: Especificar objetivos
+__Flujo Principal__:
+1. ...
+2. ...
+3. ...
+
+_De ser necesario especificar flujos alternativos_
 
 ## Arquitectura
 
-...
+- ...
+- ...
+- ...
+- ...
+
+
