@@ -1,2 +1,3 @@
-# objetos2
-Prueba de proyecto de POO 2
+# Programación Orientada a Objetos II
+
+Esquema de directorios para documentación de las iteraciones.
