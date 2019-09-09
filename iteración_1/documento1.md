@@ -43,9 +43,13 @@ Pantalla 1
 _Por cada caso de uso especificar_
 
 __Titulo del Caso de Uso__
+
 __Actores__: Especificar actores
+
 __Objetivo__: Especificar objetivos
+
 __Flujo Principal__:
+
 1. ...
 2. ...
 3. ...
