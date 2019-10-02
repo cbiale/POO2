@@ -1,3 +1,3 @@
 # Programación Orientada a Objetos II
 
-Esquema de directorios para documentación de la iteración 1.
+Esquema de directorios para documentación de las iteraciones.
