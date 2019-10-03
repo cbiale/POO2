@@ -63,7 +63,7 @@ __Flujo Principal__:
 
 _De ser necesario especificar flujos alternativos_
 
-## Documentación Interfaz
+## Documentación Interfaz (API)
 
 ...
 
